@@ -2,7 +2,11 @@
 - 👀 I’m interested in reactive approach, Swift, Combine, Swift UI
 - 🌱 I’m currently learning Swift UI
 - 💞️ I’m looking to collaborate on these ⬆️
-- 📫 Feel free to get in touch. Mail: timofeev.danil@gmail.com; Telegram: @iDanyl
+- 📫 Feel free to get in touch. 
+
+linkedIn: https://www.linkedin.com/in/danyl-timofeyev/
+email: timofeev.danil@gmail.com 
+telegram: @iDanyl 
 
 <!---
 redmilk/redmilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
