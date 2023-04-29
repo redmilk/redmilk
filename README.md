@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redmilk
 - 👀 I’m interested in reactive approach, Swift, Combine, Swift UI
-- 🌱 I’m currently learning Swift UI
 - 💞️ I’m looking to collaborate on these ⬆️
+- 🌱 I’m currently learning Swift UI
 - 📫 Feel free to get in touch. 
 
 linkedIn: https://www.linkedin.com/in/danyl-timofeyev/
