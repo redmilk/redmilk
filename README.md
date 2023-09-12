@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redmilk
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in reactive approach, Swift, Combine, Swift UI
 - 💞️ I’m looking to collaborate on these ⬆️
 - 🌱 I’m currently learning Swift UI
