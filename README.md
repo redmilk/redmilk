@@ -7,7 +7,7 @@
 
 linkedIn: [https://www.linkedin.com/in/danyl-timofeyev/](https://www.linkedin.com/in/danyl-timofeyev/)
 email: timofeev.danil@gmail.com
-elegram: @iDanyl
+telegram: @iDanyl
 
 Feel free to connect and chat with me about all things iOS and tech-related!
 
