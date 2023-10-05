@@ -1,8 +1,8 @@
 
 - 👋 Greetings! I'm Daniel, an iOS engineer at Reface app. Unfortunately, I couldn't contribute much last year due to my primary job keeping me busy.
-- 👀 My areas of interest lie in the realm of the reactive approach, Swift, Combine, UIKit, and SwiftUI.
+- 👀 My areas of interest lie in the realm of the reactive approach, Swift, Combine, UIKit, mobile architectures and primarily focused on native iOS development.
 - 💞️ I'm eager to collaborate on projects related to these technologies ⬆️.
-- 🌱 Currently, I'm dedicating my time to learning Swift UI for future production purposes.
+- 🌱 Currently, I'm dedicating my time to learning depth of Combine and SwiftUI for future production purposes.
 - 📫 Don't hesitate to reach out to me through the following channels:
 
 linkedIn: [https://www.linkedin.com/in/danyl-timofeyev/](https://www.linkedin.com/in/danyl-timofeyev/)
