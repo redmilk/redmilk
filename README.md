@@ -5,10 +5,11 @@
 - 🌱 Currently, I'm dedicating my time to learning Swift UI for future production purposes.
 - 📫 Don't hesitate to reach out to me through the following channels:
 
-linkedIn: [https://www.linkedin.com/in/danyl-timofeyev/](https://www.linkedin.com/in/danyl-timofeyev/)
-email: timofeev.danil@gmail.com 
-telegram: @iDanyl
-WatsApp: +351497779
+- linkedIn: [https://www.linkedin.com/in/danyl-timofeyev/](https://www.linkedin.com/in/danyl-timofeyev/)
+- Telegram: @iDanyl
+- WatsApp: +351497779
+- email: timofeev.danil@gmail.com 
+
 Feel free to connect and chat with me about all things iOS and tech-related!
 
 <!---
