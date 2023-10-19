@@ -1,5 +1,5 @@
 
-- 👋 Greetings! I'm Daniel, an iOS engineer at Reface app. Unfortunately, I couldn't contribute much last year due to my primary job keeping me busy.
+- 👋 Greetings! I'm Danny, an iOS engineer at Reface app. Unfortunately, I couldn't contribute much last year due to my primary job keeping me busy.
 - 👀 My areas of interest lie in the realm of the reactive approach, Swift, Combine, UIKit, mobile architectures. Pprimarily focused on native iOS development.
 - 💞️ I'm eager to collaborate on projects related to these technologies ⬆️.
 - 🌱 Currently, I'm dedicating my time to learning depth of Combine and SwiftUI for future production purposes.
