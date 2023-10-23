@@ -9,7 +9,7 @@ linkedIn: [https://www.linkedin.com/in/danyl-timofeyev/](https://www.linkedin.co
 email: timofeev.danil@gmail.com
 telegram: @iDanyl
 
-Feel free to connect and chat with me about all things iOS and tech-related!
+Feel free to connect and chat with me about all things iOS and tech-related! Also if you need extra hands for contribution...
 
 <!---
 redmilk/redmilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
