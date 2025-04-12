@@ -1,5 +1,5 @@
 
-👋 Hi! I'm Danylo, an iOS engineer.
+👋 Hi! I'm Danylo, an iOS engineer. 
 linkedIn: [https://www.linkedin.com/in/danyl-timofeyev/](https://www.linkedin.com/in/danyl-timofeyev/)
 email: timofeev.danil@gmail.com
 telegram: @iDanyl
